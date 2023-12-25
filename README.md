@@ -7,6 +7,7 @@
 - LinkedIn: https://www.linkedin.com/in/muhammad-hassan-646b611b8/
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hassan)](https://github.com/anuraghazra/github-readme-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 - 
 
 <!---
