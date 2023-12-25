@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-Hasssan
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on data analytics project to help my learning and grow with better experience.
+- 👀 I’m Web Developer
+- 🌱 I’m currently learning Web Developing 
+- 💞️ I’m looking to collaborate on web development project to help my learning and grow with better experience.
 - 📫 How to reach me
 - Email: muhammed.hassan.tariq@gmail.com
 - LinkedIn: https://www.linkedin.com/in/muhammad-hassan-646b611b8/  
