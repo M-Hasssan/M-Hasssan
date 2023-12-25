@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @M-Hasssan
-- 👀 I’m Web Developer
-- 🌱 I’m currently learning Web Developing 
-- 💞️ I’m looking to collaborate on web development project to help my learning and grow with better experience.
-- 📫 How to reach me
-- Email: muhammed.hassan.tariq@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhammad-hassan-646b611b8/
-
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hassan)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋, Muhammad Hassan
 #### I am web developer
 ![I am web developer]
@@ -20,6 +10,7 @@ Key Skills:
 Front-End Development: Proficient in HTML, CSS, and JavaScript, I specialize in creating responsive and visually appealing user interfaces.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hassan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
