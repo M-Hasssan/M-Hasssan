@@ -1,6 +1,5 @@
-### Hi there 👋, Muhammad Hassan
+### Muhammad Hassan
 #### I am web developer
-![I am web developer]
 
 Hi there!
 I'm Hassan, a passionate and experienced web developer dedicated to crafting engaging and functional online experiences. With a strong foundation in both front-end and back-end technologies, I bring creativity and technical expertise to every project.
