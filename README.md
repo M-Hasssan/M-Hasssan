@@ -9,12 +9,12 @@ I'm Hassan, a passionate and experienced web developer dedicated to crafting eng
 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,apollo,graphql,mongodb,express,js,ts,redux,sass,flutter,bootstrap,materialui,netlify,css,html)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-hassan-646b611b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muhammed.hassan.18007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/muhammad_hassanz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Fazeburritos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png)  
-
-
+## Git Overview
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hassan)](https://github.com/anuraghazra/github-readme-stats)
 
+## Social Links
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-hassan-646b611b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muhammed.hassan.18007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/muhammad_hassanz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Fazeburritos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png)  
 
 
