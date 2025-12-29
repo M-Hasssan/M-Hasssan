@@ -2,11 +2,11 @@
 #### I am web developer
 
 Hi there!
-I'm Hassan, a passionate and experienced web developer dedicated to crafting engaging and functional online experiences. With a strong foundation in both front-end and back-end technologies, I bring creativity and technical expertise to every project.
-
+Hassan | Machine Learning Engineer
+Passionate about building and optimizing machine learning models using Python. Experienced in data preprocessing, feature engineering, and training supervised and unsupervised models. Strong foundation in linear algebra, probability, and algorithms, with hands-on work in PyTorch and data-driven problem solving.
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,apollo,graphql,mongodb,express,js,ts,redux,sass,flutter,bootstrap,materialui,netlify,css,html)
+![My Skills](https://skillicons.dev/icons?i=docker,python,numpy,pandas,matplotlib,scikit-learn,pytorch)
 
 ## Git Overview
 
