@@ -7,9 +7,6 @@ Passionate about building and optimizing machine learning models using Python. E
 ## Skills
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy,pytorch,scikitlearn,docker,fastapi)
-## Git Overview
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?M-Hasssan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Social Links
 
 
