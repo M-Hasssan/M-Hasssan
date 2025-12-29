@@ -6,8 +6,7 @@ Hassan | Machine Learning Engineer
 Passionate about building and optimizing machine learning models using Python. Experienced in data preprocessing, feature engineering, and training supervised and unsupervised models. Strong foundation in linear algebra, probability, and algorithms, with hands-on work in PyTorch and data-driven problem solving.
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=docker,python,numpy,pandas,matplotlib,scikitlearn,pytorch,fastapi)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy,pytorch,scikitlearn,docker,fastapi)
 ## Git Overview
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hassan)](https://github.com/anuraghazra/github-readme-stats)
